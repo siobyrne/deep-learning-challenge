@@ -15,9 +15,9 @@ _Loss Original_
 
 _Loss Optimized_
 
-![Accuracy Original](images/accuracy-optimized.png)
+![Accuracy Original](images/accuracy-original.png)
 
-_Accuracy Optimized_
+_Accuracy Original_
 
 ![Accuracy Optimized](images/accuracy-optimized.png)
 
