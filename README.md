@@ -8,13 +8,17 @@ By utilizing the names of the applicants in the analysis and adjusting the class
 ## Charts
 
 ![Loss Original](images/loss-original.png)
+
 _Loss Original_
 
 ![Loss Optimized](images/loss-optimized.png)
+
 _Loss Optimized_
 
 ![Accuracy Original](images/accuracy-optimized.png)
+
 _Accuracy Optimized_
 
 ![Accuracy Optimized](images/accuracy-optimized.png)
+
 _Accuracy Optimized_
